@@ -1,0 +1,66 @@
+[
+	{
+		"Rules": "Welcome! This is a turn-based Pokémon battle simulator where you will"
+	},
+
+	{
+		"L1": "guide your Pokémon to victory against your opponent's. ^Base = ^Attack but Lwr Acc "
+	},
+	
+	{
+		"L2": " Press Space to begin and choose your moves wisely. Good luck, trainer! ^Vice/Verca^"
+	},
+
+	{
+		"Pokemon": "Charmander",
+		"Type": "Fire",
+		"Health": "120",
+		"Attack": "50",
+		"Defense": "20"
+	
+	},
+	
+
+	{
+		"Pokemon": "Bidoof",
+		"Type": "Normal",
+		"Health": "100",
+		"Attack": "40",
+		"Defense": "25"
+	
+	},
+
+	{
+		"Pokemon": "Miltank",
+		"Type": "Normal",
+		"Health": "95",
+		"Attack": "60",
+		"Defense": "40"
+		
+	},
+
+	{
+		"Pokemon": "Squirtle",
+		"Type": "Water",
+		"Health": "120",
+		"Attack": "40",
+		"Defense": "30"			
+		
+	},
+	
+	{
+		"Moves": "Scratch(30 Base) Tail(Lwr p2Def) Fire(80 Base) Metal(60Base/Inc p1Atk?)"		
+	},
+	
+	{
+		"Moves": "Tackle(50 Base) Growl(Lwr p1Atk) Bite(80 Base) Hype(Inc p1Atk)"		
+	},
+	
+	{
+		"Moves": "Stomp(65 Base) Growl(Lwr p1Atk) Fling(40 Base) Milk Drink (Heals User)"		
+	},
+	
+	{
+		"Moves": "Harden(Inc p1Atk) Tackle(40 Base) RazorShell(70 Base) Hype(Inc p1Atk)"
+	}
+]	
