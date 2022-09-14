@@ -12,7 +12,8 @@ There are 2 pokemon on the user and enemy side!
 ## User Interface Design
 Proposed:
 * ![sketch gui](assets/initialgui.png)
-Current:
+
+Final:
 * ![final gui](assets/gui2.png)
 ***        
 
