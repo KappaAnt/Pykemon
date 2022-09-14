@@ -1,5 +1,5 @@
 
-# Pokemon ShowDown
+# Pokemon Showdown in python!
 
 #### Anthony Albanese Kyle Enriquez 
 
